@@ -1,2 +1,1 @@
 # MAVEN_JAVA
-New
